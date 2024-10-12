@@ -1,6 +1,6 @@
-.venv
-
-TOKEN.py
+.venv/
+__pycache__/
+config.py
 
 
 
